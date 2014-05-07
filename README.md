@@ -1,6 +1,10 @@
 APILite
 =======
 
+A simple PHP class wrapping the Spaachpad API functionality.
+
+Note for Ruby users: Upworthy makes available a Speechpad API Client as a Ruby gem (https://github.com/upworthy/speechpad)
+
 ## Usage Examples
 
 ### Instantiating the class
@@ -58,4 +62,4 @@ http://path/to/examples/transcription_status.php?audio_id=12345,12346
 
 http://path/to/examples/get_transcription.php?audio_id=12345
 
-(Replace 12345 with **one** ID of the media you are checking.)
+(Replace 12345 with **one** media ID.)
