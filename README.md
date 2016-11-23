@@ -1,7 +1,7 @@
 APILite
 =======
 
-A simple PHP class wrapping the Spaachpad API functionality.
+A simple PHP class wrapping the Speechpad API functionality.
 
 Note for Ruby users: Upworthy makes available a Speechpad API Client as a Ruby gem (https://github.com/upworthy/speechpad)
 
